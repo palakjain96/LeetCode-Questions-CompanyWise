@@ -178,7 +178,6 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 369,Plus One Linked List,58.2%,Medium,2.103037362276518, https://leetcode.com/problems/plus-one-linked-list
 162,Find Peak Element,43.3%,Medium,2.097923147793266, https://leetcode.com/problems/find-peak-element
 133,Clone Graph,34.8%,Medium,2.093083764564862, https://leetcode.com/problems/clone-graph
-38,Count and Say,44.6%,Easy,2.0886590981708664, https://leetcode.com/problems/count-and-say
 34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,2.077190953113431, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 447,Number of Boomerangs,51.8%,Easy,2.070710491182991, https://leetcode.com/problems/number-of-boomerangs
 336,Palindrome Pairs,33.7%,Hard,2.068730116946457, https://leetcode.com/problems/palindrome-pairs
